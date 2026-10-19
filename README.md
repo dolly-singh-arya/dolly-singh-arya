@@ -25,7 +25,7 @@ public class DollySinghArya {
         build("Secure, scalable backend systems");
     }
 
-    public boolean openToInternships() {
+    public boolean openToJobs() {
         return true;
     }
 }
