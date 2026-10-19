@@ -59,7 +59,3 @@ public class DollySinghArya {
 <a href="https://www.linkedin.com/in/dolly-arya">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
----
-
-<p align="center"><i>"First, solve the problem. Then, write the code."</i> 💡</p>
